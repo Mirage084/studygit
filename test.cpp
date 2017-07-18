@@ -6,5 +6,5 @@ int main()
 	//take a huge change...
 	cout<<"Hello World!"<<endl;
 	//a little more change...
-	return 1;
+	return 0;
 }
